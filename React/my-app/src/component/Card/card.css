@@ -1,0 +1,18 @@
+
+.card{
+    display: flex;
+    flex-direction: column;
+    background-color: antiquewhite;
+    border-radius: 10px;
+    border: 1px solid #ccc ;
+}
+
+.card.card-title{
+    font-size: large;
+    font-weight: bold;
+}
+
+.card.card-cotent{
+    color:rgb(52, 70, 70);
+}
+
